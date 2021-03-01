@@ -635,14 +635,12 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
-
 h1,
 h2,
 h3,
 h4,
 h5,
 h6,
-p,
 label,
 .btn,
 a {
@@ -686,6 +684,9 @@ p {
     font-size: 14px;
     text-align: center;
     font-weight: lighter;
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #575757;
 }
 
 .tight-width-whitespace {
